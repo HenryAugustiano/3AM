@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/enf2qyfT)
-
 # COSC 360 Project (MyDiscussionForumWebsite)
 
 ---
@@ -34,22 +32,3 @@
     * Reiview reported posts
  
  ---
- Client side experience report
-
-* [Click here for PDF](DOCS/Client-side%20experience.pdf)
-
- ---
- Minimal core functionality report
-
-* [Click here for PDF](DOCS/Minimal%20Core%20Functionality.pdf)
-
- ---
- 3AM user guide
-
-* [Click here for PDF](DOCS/3AM%20User%20Guide.pdf)
-
- ---
- System implementation from a developer's perspective
-
-* [Click here for PDF](DOCS/System%20Implementation.pdf)
-
